@@ -1,5 +1,5 @@
 #include <stdio.h>
 int main (){
-    printf ("bitch)
+    printf ("bitch");
     return 0;
 }
